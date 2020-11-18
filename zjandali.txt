@@ -1,0 +1,7 @@
+UCInetID: zjandali
+
+Introduction:
+I'm a computer science major specializing in machine learning.
+I was previously an astrophysics major until I took a computer
+science course at Saddleback College and fell in love with 
+programming.
